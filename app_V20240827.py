@@ -180,7 +180,7 @@ def parser_user_input(dataframe_input , codificador_ordinales , cat_encoder ,  t
 ###############################################################################
 # Page configuration
 st.set_page_config(
-    page_title="AL Prediction App"
+    page_title="Saber Pro Prediction App"
 )
 st.set_option('deprecation.showPyplotGlobalUse', False)
 # Initialize app
